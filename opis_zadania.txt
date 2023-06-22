@@ -1,0 +1,19 @@
+Zadanie 1
+Zadeklarować tablicę liczb całkowitych A[6][6];
+1. Tablicę wypełnić liczbami losowymi z przedziału <p, k> (p, k – należy wczytać).
+2. Wypisać tablicę w ekranie w postaci macierzowej.
+3. Zapisać tablicę wierszami do pliku.
+4. Odczytać dane z pliku i zapisać do tablicy A kolumnami.
+Program napisać z podziałem na funkcje. 
+
+Zadanie 2
+Zadeklarować strukturę Pracownik mającą pola:
+ nazwisko, staż, pensja
+Zadeklarować dynamicznie N elementową tablicę typu Pracownik. (N wyczytane z klawiatury)
+1. Wczytać dane do tej tablicy z pliku "pracownicy.txt”. ·Napisać funkcję, która wypisuje wczytaną
+tablicę na ekran. Dane pracowników wypisane w jednej linii w sposób czytelny, poszczególne
+kolumny odpowiedniej szerokości.
+2. Napisać funkcję, która oblicza średnią płacę pracowników, których staż pracy jest dłuższy od
+podanej wartości.
+3. Napisać funkcję, która posortuje alfabetycznie tablicę pracowników.
+4. Do pliku, którego nazwa zostanie podane zapisać posortowaną tablicę pracowników. 
